@@ -13,3 +13,5 @@ select the R markdown file
 select "commit"
 
 check now.
+
+jocelyncervantes@Jocelyns-MacBook-Pro-3.local
