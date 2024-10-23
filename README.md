@@ -11,3 +11,5 @@ select "git" next to environment
 make sure you saved last changes in the R markdown.
 select the R markdown file 
 select "commit"
+
+check now.
